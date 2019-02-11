@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The oregon_counties data contains the [Oregon by the Numbers](https://www.tfff.org/select-books/book/oregon-numbers) report dataset joined with oregon county polygons.
+The oregon_counties data contains the [Oregon by the Numbers](https://www.tfff.org/select-books/book/oregon-numbers) report dataset joined with Oregon county polygons.
 
 
 ### File Size
